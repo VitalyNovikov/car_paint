@@ -73,12 +73,11 @@
 
 ![](Gallery/photo_2026-07-06_23-42-15.jpg)
 
+![](Gallery/photo_2026-07-06_23-42-26.jpg)
+
 ![](Gallery/photo_2026-07-06_23-42-18.jpg)
 
 ![](Gallery/photo_2026-07-06_23-42-22.jpg)
-
-![](Gallery/photo_2026-07-06_23-42-26.jpg)
-
 
 
 ---
