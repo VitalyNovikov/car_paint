@@ -84,9 +84,7 @@
 
 # Відео демонстрації
 
-<video controls width="600">
-  <source src="Gallery/video_2026-07-07_00-00-57.mp4" type="video/mp4">
-</video>
+![](https://github.com/VitalyNovikov/car_paint/blob/main/Gallery/video_2026-07-07_00-00-57.mp4)
 
 ---
 
