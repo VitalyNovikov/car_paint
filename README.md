@@ -84,7 +84,9 @@
 
 # Відео демонстрації
 
-![](Gallery/video_2026-07-07_00-00-57.mp4)
+<video controls width="600">
+  <source src="Gallery/video_2026-07-07_00-00-57.mp4" type="video/mp4">
+</video>
 
 ---
 
