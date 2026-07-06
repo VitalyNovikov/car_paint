@@ -84,7 +84,7 @@
 
 # Відео демонстрації
 
-https://github.com/VitalyNovikov/car_paint/blob/main/Gallery/video_2026-07-07_00-00-57.mp4
+[https://github.com/VitalyNovikov/car_paint/blob/main/Gallery/video_2026-07-07_00-00-57.mp4](https://github.com/VitalyNovikov/car_paint/blob/d98f41fe70ff4dacf34d613d427c92119e2b2cc0/Gallery/video_2026-07-07_00-00-57.mp4)
 
 ---
 
